@@ -47,3 +47,10 @@ _Cursivav2_
  ```bash
 javac *.java
   ```
+
+# Tack List
+- [ ] Tarea 1
+- [X] Tarea 2
+- [ ] Actividad 3
+- [X] Actividad 4
+
